@@ -4,7 +4,7 @@ description: Analyze evidence with crystallographic precision, distinguishing wh
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3769
+  version: 1.0.3770
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - data-first-analysis
